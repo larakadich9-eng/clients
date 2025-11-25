@@ -1,0 +1,221 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "productions": "Productions",
+    "aboutUs": "Clients",
+    "academy": "AI Academy",
+    "contact": "Contact",
+    "cta": "Let's Create",
+    "skipToMain": "Skip to main content"
+  },
+  "hero": {
+    "title": "Discover",
+    "subtitle": "Where Intelligence Meets Creativity",
+    "description": "An AI creative studio delivering premium digital experiences with Apple-level refinement and modern AI startup energy.",
+    "primaryCta": "Start Your Project",
+    "secondaryCta": "Explore Services",
+    "aboutDescription": "We create AI-driven digital marketing and media solutions that help people and businesses grow and communicate effectively. Our journey begins with a deep dive into your vision, where we engage in meaningful conversations to understand your brand identity, goals, and the essence you want to convey."
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Transforming ideas into intelligent solutions",
+    "items": [
+      {
+        "title": "AI-Powered Design",
+        "description": "Create stunning visuals with cutting-edge AI tools and creative expertise.",
+        "icon": "sparkles"
+      },
+      {
+        "title": "Brand Identity",
+        "description": "Build memorable brands that resonate with your audience and stand out.",
+        "icon": "palette"
+      },
+      {
+        "title": "Digital Strategy",
+        "description": "Data-driven strategies that transform your digital presence and growth.",
+        "icon": "target"
+      },
+      {
+        "title": "Content Creation",
+        "description": "Engaging content that tells your story and connects with your audience.",
+        "icon": "pen-tool"
+      },
+      {
+        "title": "Web Development",
+        "description": "Premium websites and applications built with modern technologies.",
+        "icon": "code"
+      },
+      {
+        "title": "AI Consulting",
+        "description": "Expert guidance on integrating AI into your business workflows.",
+        "icon": "brain"
+      }
+    ]
+  },
+  "academy": {
+    "title": "Our Courses",
+    "subtitle": "Explore our comprehensive AI learning programs",
+    "description": "Learn cutting-edge AI tools and techniques from industry experts.",
+    "tabs": {
+      "courses": "Courses",
+      "instructors": "Instructors"
+    },
+    "instructorsSection": {
+      "title": "Meet Your Instructors",
+      "subtitle": "Learn from world-class AI experts and industry leaders",
+      "backToCourses": "Back to Courses",
+      "back": "Back"
+    },
+    "courseStats": {
+      "duration": "weeks",
+      "students": "students",
+      "rating": "rating"
+    },
+    "instructorStats": {
+      "courses": "courses",
+      "students": "students"
+    },
+    "categories": {
+      "beginner": "Beginner",
+      "intermediate": "Intermediate",
+      "advanced": "Advanced"
+    },
+    "courses": [
+      {
+        "title": "AI Fundamentals & Machine Learning",
+        "subtitle": "Build intelligent systems from scratch"
+      },
+      {
+        "title": "Deep Learning & Neural Networks",
+        "subtitle": "Master advanced AI architectures"
+      },
+      {
+        "title": "Natural Language Processing & Chatbots",
+        "subtitle": "Build conversational AI systems"
+      },
+      {
+        "title": "Computer Vision & Image Processing",
+        "subtitle": "Create AI that sees and understands"
+      },
+      {
+        "title": "Generative AI & Prompt Engineering",
+        "subtitle": "Create stunning AI-generated content"
+      },
+      {
+        "title": "AI for Business & Strategy",
+        "subtitle": "Transform organizations with AI"
+      }
+    ],
+    "instructors": [
+      {
+        "name": "Dr. Sarah Chen",
+        "specialty": "Deep Learning & Neural Networks",
+        "tagline": "Former Google AI Research Lead"
+      },
+      {
+        "name": "Prof. Michael Rodriguez",
+        "specialty": "Computer Vision & Robotics",
+        "tagline": "MIT AI Lab Director"
+      },
+      {
+        "name": "Dr. Aisha Patel",
+        "specialty": "Natural Language Processing",
+        "tagline": "OpenAI Research Scientist"
+      },
+      {
+        "name": "James Liu",
+        "specialty": "Generative AI & Creative Tools",
+        "tagline": "Midjourney Senior Engineer"
+      }
+    ]
+  },
+  "contactCta": {
+    "title": "Ready to Transform Your Vision?",
+    "subtitle": "Let's create something extraordinary together",
+    "cta": "Start a Conversation"
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Have a question or want to work together? We'd love to hear from you.",
+    "form": {
+      "title": "Send us a message",
+      "name": "Name",
+      "namePlaceholder": "Your name",
+      "email": "Email",
+      "emailPlaceholder": "your@email.com",
+      "company": "Company",
+      "companyPlaceholder": "Your company (optional)",
+      "optional": "(optional)",
+      "message": "Message",
+      "messagePlaceholder": "Tell us about your project...",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "required": "*",
+      "successTitle": "Message Sent Successfully!",
+      "successMessage": "Thank you for reaching out. We'll get back to you within 2 hours.",
+      "sendAnother": "Send Another Message",
+      "validation": {
+        "nameRequired": "Name is required",
+        "emailRequired": "Email is required",
+        "emailInvalid": "Please enter a valid email",
+        "messageRequired": "Message is required",
+        "messageMin": "Message must be at least 10 characters",
+        "submitError": "Something went wrong. Please try again."
+      }
+    },
+    "methods": {
+      "email": {
+        "title": "Email Us",
+        "description": "Get in touch via email"
+      },
+      "phone": {
+        "title": "Call Us",
+        "description": "Speak directly with our team"
+      },
+      "location": {
+        "title": "Visit Us",
+        "description": "Our headquarters"
+      }
+    },
+    "guarantee": {
+      "title": "Quick Response Guarantee",
+      "description": "We typically respond to all inquiries within 2 hours during business hours. For urgent matters, please call us directly."
+    }
+  },
+  "aboutUs": {
+    "general": {
+      "title": "Enterprise Solutions (B2B)",
+      "content": "Empowering businesses with digital and creative transformation through artificial intelligence."
+    },
+    "official": {
+      "title": "Government & Public Institutions",
+      "content": "Supporting digital transformation and institutional intelligence in public services, service automation, citizen chatbots, interactive dashboards, and media content analysis."
+    },
+    "creative": {
+      "title": "Startups & Entrepreneurs",
+      "content": "Enabling startups to launch with powerful digital capabilities and professional visual design."
+    },
+    "executive": {
+      "title": "Media & Creative Production",
+      "content": "Supporting digital transformation for traditional and visual media through animation, virtual influencers, digital advertising production, and AI-powered audience and content analytics."
+    },
+    "comprehensive": {
+      "title": "Individuals & Creators (B2C)",
+      "content": "Empowering individuals to leverage artificial intelligence for skill development and business growth through training courses, content generation tools, digital fashion design, metaverse experiences, and AI tool training."
+    },
+    "partnerships": {
+      "title": "Strategic Partnerships",
+      "content": "Collaborating with institutions and companies to expand service offerings and reach."
+    }
+  },
+  "footer": {
+    "tagline": "Where Intelligence Meets Creativity",
+    "copyright": "© 2024 ORNINA. All rights reserved.",
+    "social": {
+      "whatsapp": "WhatsApp",
+      "instagram": "Instagram",
+      "linkedin": "LinkedIn"
+    }
+  }
+}
