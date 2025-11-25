@@ -53,6 +53,42 @@
       }
     ]
   },
+  "testimonials": {
+    "title": "Client Testimonials",
+    "subtitle": "Hear from our satisfied clients",
+    "items": [
+      {
+        "quote": "This service transformed our business completely. The team was professional, responsive, and delivered beyond our expectations.",
+        "name": "Sarah Johnson",
+        "designation": "CEO, Tech Innovations Inc.",
+        "src": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop"
+      },
+      {
+        "quote": "Outstanding quality and attention to detail. They understood our vision and brought it to life perfectly.",
+        "name": "Michael Chen",
+        "designation": "Founder, Creative Studios",
+        "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop"
+      },
+      {
+        "quote": "Working with this team was a game-changer for our company. Highly recommended to anyone looking for excellence.",
+        "name": "Emma Rodriguez",
+        "designation": "Director of Marketing, Global Solutions",
+        "src": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop"
+      },
+      {
+        "quote": "Exceptional service from start to finish. They went above and beyond to ensure our satisfaction.",
+        "name": "David Thompson",
+        "designation": "VP of Operations, Enterprise Corp",
+        "src": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop"
+      },
+      {
+        "quote": "The best investment we made for our business. Their expertise and dedication are unmatched.",
+        "name": "Lisa Anderson",
+        "designation": "Founder, Digital Ventures",
+        "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop"
+      }
+    ]
+  },
   "academy": {
     "title": "Our Courses",
     "subtitle": "Explore our comprehensive AI learning programs",
