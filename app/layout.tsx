@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { IBM_Plex_Sans_Arabic, Tajawal } from "next/font/google";
+import { IBM_Plex_Sans_Arabic, Tajawal, Inter } from "next/font/google";
 import "./globals.css";
 import { ThemeProvider } from "@/components/providers/theme-provider";
 import { LanguageProvider } from "@/components/providers/language-provider";
@@ -23,6 +23,16 @@ const tajawal = Tajawal({
   display: 'swap', // Prevents Flash of Invisible Text (FOIT)
   preload: true, // Preload font for faster initial render
   variable: '--font-cairo',
+  adjustFontFallback: true, // Reduce layout shift
+  // Next.js automatically adds preconnect for Google Fonts
+});
+
+const inter = Inter({
+  subsets: ['latin'],
+  weight: ['300', '400', '500', '600', '700', '800'],
+  display: 'swap', // Prevents Flash of Invisible Text (FOIT)
+  preload: true, // Preload font for faster initial render
+  variable: '--font-inter',
   adjustFontFallback: true, // Reduce layout shift
   // Next.js automatically adds preconnect for Google Fonts
 });
@@ -94,7 +104,7 @@ export default function RootLayout({
           }}
         />
       </head>
-      <body className={`${ibmPlexArabic.variable} ${tajawal.variable} font-arabic antialiased`} suppressHydrationWarning>
+      <body className={`${ibmPlexArabic.variable} ${tajawal.variable} ${inter.variable} font-arabic antialiased`} suppressHydrationWarning>
         <WebVitalsReporter />
         <ThemeProvider>
           <LanguageProvider>

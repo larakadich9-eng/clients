@@ -47,7 +47,8 @@ const config: Config = {
       },
       fontFamily: {
         'arabic': ['var(--font-ibm-plex-arabic)', 'var(--font-cairo)', 'sans-serif'],
-        'sans': ['var(--font-ibm-plex-arabic)', 'system-ui', 'sans-serif'],
+        'sans': ['var(--font-inter)', 'system-ui', 'sans-serif'],
+        'inter': ['var(--font-inter)', 'system-ui', 'sans-serif'],
       },
       fontSize: {
         /* 2025 Modern Typography Scale with Fluid Sizing */

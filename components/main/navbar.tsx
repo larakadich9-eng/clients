@@ -197,7 +197,7 @@ export function Navbar({ translations }: NavbarProps) {
     { name: translations.home, href: isHomePage ? '#home' : '/#home', id: 'home' },
     { name: translations.services, href: `/${locale}/services`, id: 'services' },
     { name: translations.productions, href: `/${locale}/productions`, id: 'productions' },
-    { name: translations.aboutUs, href: `/${locale}/about`, id: 'about' },
+    { name: translations.aboutUs, href: `/${locale}/aboutus`, id: 'about' },
     { name: translations.academy, href: `/${locale}/academy`, id: 'academy' },
     { name: translations.contact, href: `/${locale}/contact`, id: 'contact' },
   ];

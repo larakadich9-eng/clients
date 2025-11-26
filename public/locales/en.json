@@ -3,7 +3,7 @@
     "home": "Home",
     "services": "Services",
     "productions": "Productions",
-    "aboutUs": "Clients",
+    "aboutUs": "About Us",
     "academy": "AI Academy",
     "contact": "Contact",
     "cta": "Let's Create",
@@ -220,6 +220,20 @@
     }
   },
   "aboutUs": {
+    "cards": {
+      "about": {
+        "title": "About Us",
+        "content": "ORNINA is a leading company providing innovative digital solutions powered by artificial intelligence. We blend technology and art to create a new future for marketing and media production. We believe AI is not a replacement for human creativity, but a tool that enhances its power."
+      },
+      "vision": {
+        "title": "Our Vision",
+        "content": "We create the future of business and creativity through AI solutions that make a real difference in the lives of individuals and companies."
+      },
+      "mission": {
+        "title": "Our Mission",
+        "content": "Empower individuals and organizations to achieve sustainable digital growth and unleash their creative potential using artificial intelligence."
+      }
+    },
     "general": {
       "title": "Enterprise Solutions (B2B)",
       "content": "Empowering businesses with digital and creative transformation through artificial intelligence."
